@@ -3,10 +3,27 @@
 <head>
   <meta charset="utf-8">
 
-  <title>#(title)</title>
+  <title>srh.pet</title>
 </head>
 
 <body>
-  <h1>#(title)</h1>
+  <h1>srh.pet </h1>
+  <p>once upon a time, there was a creature</p>
+  <p>this creature was called sarah</p>
+  <p>sarah wasn't quite sure what it was, but it knew it wasn't human. well, not just human anyway</p>
+  <p>after years of experimentation and self-discovery, it came to realise something</p>
+  <p>it didn't want to be human. it didn't like being human. thoughts were too hard, human traditions too much</p>
+  <p>slowly, over time, it started acting like a girl.</p>
+  <p>and then started expressing puppy-like traits<p>
+  <p>sarah was a girl and a dog. a puppygirl</p>
+  <p>sarah was a pet, with an owner</p>
+  <p><em>click, click</em></p>
+  
+  <br/>
+  <footer>
+    <p>
+      story by <a href="https://transcental.dev" target="_blank">amber</a>
+    </p>
+  </footer>
 </body>
 </html>
